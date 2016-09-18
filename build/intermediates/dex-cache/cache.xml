@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Sacbe\Documents\Axel\AndroidStudio\PetagramPersistenciaAxelSegura\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="C:\Users\Sacbe\Documents\Axel\AndroidStudio\PetagramPersistenciaAxelSegura\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.0_0bcfe6fecf45676d521c3a75d186c70a3301551e\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Sacbe\Documents\Axel\AndroidStudio\PetagramPersistenciaAxelSegura\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="C:\Users\Sacbe\Documents\Axel\AndroidStudio\PetagramPersistenciaAxelSegura\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.0_9d6e563f6286deb4ad8f193241ab3d1d40ce7437\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Sacbe\Documents\Axel\AndroidStudio\PetagramPersistenciaAxelSegura\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="c755536e5a100d9c76c8ea0b72f76c018f7a9de2">
+        <dex dex="C:\Users\Sacbe\Documents\Axel\AndroidStudio\PetagramPersistenciaAxelSegura\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-24.2.0_26d2feed93ce946708035ca186e9005378b00769\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Sacbe\Documents\Axel\AndroidStudio\PetagramPersistenciaAxelSegura\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="C:\Users\Sacbe\Documents\Axel\AndroidStudio\PetagramPersistenciaAxelSegura\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.0_c41d1896fd4c26e4311c743f4efaa772d4921fa7\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Sacbe\Documents\Axel\AndroidStudio\PetagramPersistenciaAxelSegura\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="C:\Users\Sacbe\Documents\Axel\AndroidStudio\PetagramPersistenciaAxelSegura\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_1fce8d05e005f5f48e6da25a95fc4b6887c5eacd\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Sacbe\Documents\Axel\AndroidStudio\PetagramPersistenciaAxelSegura\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="C:\Users\Sacbe\Documents\Axel\AndroidStudio\PetagramPersistenciaAxelSegura\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.0_8c1c0f338096d4c9cd624f0f0e44b73cca84aba2\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Sacbe\Documents\Axel\AndroidStudio\PetagramPersistenciaAxelSegura\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="96e33a7aaee00ab64270e2a9887b8f9ef32c8b73">
+        <dex dex="C:\Users\Sacbe\Documents\Axel\AndroidStudio\PetagramPersistenciaAxelSegura\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-24.2.0_00340a7dfdcd90b2ce2e2ff13295da73204e8cd2\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Sacbe\Documents\Axel\AndroidStudio\PetagramPersistenciaAxelSegura\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="C:\Users\Sacbe\Documents\Axel\AndroidStudio\PetagramPersistenciaAxelSegura\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.0_0db218e49c530c2443de968c1de3616bb21b1ca2\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Sacbe\Documents\Axel\AndroidStudio\PetagramPersistenciaAxelSegura\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="C:\Users\Sacbe\Documents\Axel\AndroidStudio\PetagramPersistenciaAxelSegura\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.0_bc42306dfcafb7371afc2041344e36b0aa20b736\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Sacbe\Documents\Axel\AndroidStudio\PetagramPersistenciaAxelSegura\app\build\intermediates\exploded-aar\com.mikhaellopez\circularimageview\3.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="a8340f8c17337c864648c13abe1416d34c80ec14">
+        <dex dex="C:\Users\Sacbe\Documents\Axel\AndroidStudio\PetagramPersistenciaAxelSegura\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.mikhaellopez-circularimageview-3.0.2_726ca47490302ff0aaf0856df282350903a86c7b\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Sacbe\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.0\support-annotations-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
+        <dex dex="C:\Users\Sacbe\Documents\Axel\AndroidStudio\PetagramPersistenciaAxelSegura\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.0_3439e34c905ecce73dd11d765b10d6ee210c0f0c\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Sacbe\Documents\Axel\AndroidStudio\PetagramPersistenciaAxelSegura\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="C:\Users\Sacbe\Documents\Axel\AndroidStudio\PetagramPersistenciaAxelSegura\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.0_14264fb1d6aa41e2a063a0c86540ce16ae6e98e8\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Sacbe\Documents\Axel\AndroidStudio\PetagramPersistenciaAxelSegura\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="C:\Users\Sacbe\Documents\Axel\AndroidStudio\PetagramPersistenciaAxelSegura\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_40edbe15d59668e70280aba995655b84614c5518\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Sacbe\.gradle\caches\modules-2\files-2.1\com.sun.mail\android-mail\1.5.5\53a2f927b235acb565dbe9314ececfb7e6d43020\android-mail-1.5.5.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="53a2f927b235acb565dbe9314ececfb7e6d43020">
+        <dex dex="C:\Users\Sacbe\Documents\Axel\AndroidStudio\PetagramPersistenciaAxelSegura\app\build\intermediates\transforms\dex\debug\folders\1000\10\android-mail-1.5.5_01a5c3800322a96cbc0989bb2d44a0728ab2b013\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Sacbe\Documents\Axel\AndroidStudio\PetagramPersistenciaAxelSegura\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="C:\Users\Sacbe\Documents\Axel\AndroidStudio\PetagramPersistenciaAxelSegura\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_e787e14a05f193e2a9ee85082e946d63aefb6d27\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Sacbe\Documents\Axel\AndroidStudio\PetagramPersistenciaAxelSegura\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="C:\Users\Sacbe\Documents\Axel\AndroidStudio\PetagramPersistenciaAxelSegura\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_1b9cd7247070ab901b2115d26d508eb99f166900\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Sacbe\Documents\Axel\AndroidStudio\PetagramPersistenciaAxelSegura\app\build\intermediates\exploded-aar\com.android.support\design\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="23eb0d2998a782213b56168cbf23a0688b9111d9">
+        <dex dex="C:\Users\Sacbe\Documents\Axel\AndroidStudio\PetagramPersistenciaAxelSegura\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-24.2.0_34679d8bcf9ea5c68b2c528e6c51e10d31b7eca6\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Sacbe\Documents\Axel\AndroidStudio\PetagramPersistenciaAxelSegura\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="93af560c862eb4e7a0c39d2ca02cfb1a68f43c65">
+        <dex dex="C:\Users\Sacbe\Documents\Axel\AndroidStudio\PetagramPersistenciaAxelSegura\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_06f394d1d328e01f164c6434090365b3940a0cd5\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Sacbe\.gradle\caches\modules-2\files-2.1\com.sun.mail\android-activation\1.5.5\5442d5e05808145434b750c9f8a0c3f537383c5a\android-activation-1.5.5.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="5442d5e05808145434b750c9f8a0c3f537383c5a">
+        <dex dex="C:\Users\Sacbe\Documents\Axel\AndroidStudio\PetagramPersistenciaAxelSegura\app\build\intermediates\transforms\dex\debug\folders\1000\10\android-activation-1.5.5_20a63c26f289a5f6c3305d84cefc12143384dac4\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Sacbe\Documents\Axel\AndroidStudio\PetagramPersistenciaAxelSegura\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="C:\Users\Sacbe\Documents\Axel\AndroidStudio\PetagramPersistenciaAxelSegura\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.0_9dc7abf60f7bb593b5cfedcdd93c6b085e402a84\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Sacbe\Documents\Axel\AndroidStudio\PetagramPersistenciaAxelSegura\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="C:\Users\Sacbe\Documents\Axel\AndroidStudio\PetagramPersistenciaAxelSegura\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.0_8df164f4da85f75131cfb98dce6a921fc905851f\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Sacbe\Documents\Axel\AndroidStudio\PetagramPersistenciaAxelSegura\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="ecd3f1c1259b648daa611a75c9b2526391a6b925">
+        <dex dex="C:\Users\Sacbe\Documents\Axel\AndroidStudio\PetagramPersistenciaAxelSegura\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_2c045221fa48b1c9493fa0439f64d953afbea69f\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Sacbe\Documents\Axel\AndroidStudio\PetagramPersistenciaAxelSegura\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="C:\Users\Sacbe\Documents\Axel\AndroidStudio\PetagramPersistenciaAxelSegura\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_e78b0c90635cbeaa9f643516ad94002679c41164\classes.dex" />
+    </item>
+
+</items>
